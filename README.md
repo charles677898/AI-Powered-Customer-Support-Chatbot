@@ -81,10 +81,3 @@ http://127.0.0.1:5000/admin
 * Multi-language Support
 * Cloud Deployment
 
-## Author
-
-Name: Nandini Pampari
-
-GitHub: https://github.com/PampariNandini
-
-Linked In: https://www.linkedin.com/in/pampari-nandini-772403377?utm_source=share_via&utm_content=profile&utm_medium=member_android
